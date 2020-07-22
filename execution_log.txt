@@ -1,0 +1,808 @@
+INFO    2020-07-21 14:57:13,282 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:13,283 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:13,298 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:13,299 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:13,308 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:13,308 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:13,315 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:13,315 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:13,325 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:13,325 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:13,332 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:13,332 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:13,337 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:13,337 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:13,343 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:13,343 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:30,949 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:30,950 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:30,963 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:30,964 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:30,972 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:30,972 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:30,977 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:30,977 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:30,985 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:30,985 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:30,991 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:30,991 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:57:30,995 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:57:30,995 [main] step_def.Hook  - Test setup!
+ERROR   2020-07-21 14:57:31,001 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:57:31,001 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:58:05,002 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:05,005 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 14:58:05,007 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:58:14,721 [main] step_def.homePageStepDef  - user opening the home page
+INFO    2020-07-21 14:58:17,807 [main] step_def.homePageStepDef  - user verifing the title
+INFO    2020-07-21 14:58:17,816 [main] step_def.homePageStepDef  - user clicks arrow down
+ERROR   2020-07-21 14:58:17,854 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:58:18,745 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:18,845 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:18,845 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 14:58:18,846 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:58:19,838 [main] step_def.homePageStepDef  - user opening the home page
+INFO    2020-07-21 14:58:23,377 [main] step_def.homePageStepDef  - user verifing the title
+INFO    2020-07-21 14:58:23,385 [main] step_def.homePageStepDef  - user clicks arrow down
+ERROR   2020-07-21 14:58:23,404 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:58:24,213 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:24,310 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:24,310 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 14:58:24,310 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:58:25,321 [main] step_def.homePageStepDef  - user opening the home page
+INFO    2020-07-21 14:58:26,624 [main] step_def.homePageStepDef  - clicking on hamburger
+ERROR   2020-07-21 14:58:26,653 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:58:27,434 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:27,526 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 14:58:27,526 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 14:58:27,527 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 14:58:28,545 [main] step_def.homePageStepDef  - user opening the home page
+INFO    2020-07-21 14:58:30,520 [main] step_def.homePageStepDef  - clicking on hamburger
+ERROR   2020-07-21 14:58:30,537 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 14:58:31,313 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:22:07,874 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:22:07,876 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:22:07,878 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:22:10,710 [main] step_def.homePageStepDef  - user opening the home page
+INFO    2020-07-21 15:22:11,473 [main] step_def.homePageStepDef  - user clicks search bar
+ERROR   2020-07-21 15:22:11,515 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 15:22:12,381 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:34:35,610 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:34:35,611 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:34:35,614 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:34:38,572 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 15:34:38,573 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 15:34:38,573 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:35:44,401 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:35:44,403 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:35:44,406 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:35:46,597 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 15:35:46,597 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 15:35:46,597 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:36:34,619 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:36:34,620 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:36:34,621 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:36:36,639 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 15:36:36,639 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 15:36:36,639 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:37:48,671 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:37:48,672 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:37:48,673 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:37:50,816 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 15:37:50,816 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 15:37:50,816 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:50:42,395 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:50:42,397 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:50:42,400 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:50:44,739 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 15:50:45,990 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 15:50:46,030 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 15:50:46,917 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:54:14,008 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:54:14,009 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:54:14,012 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:54:16,536 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 15:54:17,207 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 15:54:17,256 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 15:54:18,157 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:56:55,327 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:56:55,328 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:56:55,330 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:56:57,886 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 15:56:58,731 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 15:57:09,188 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 15:57:10,051 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:58:07,024 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:58:07,025 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:58:07,028 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:58:09,384 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 15:58:09,950 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 15:58:20,432 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 15:58:20,945 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:58:47,304 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 15:58:47,305 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 15:58:47,308 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 15:58:49,551 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 15:58:50,404 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 15:58:50,439 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 15:58:51,254 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:00:25,304 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:00:25,305 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:00:25,307 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:00:27,590 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:00:28,189 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:00:28,221 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:00:29,063 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:01:28,103 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:01:28,105 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:01:28,107 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:01:30,148 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:01:33,522 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:01:33,559 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:01:34,376 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:03:01,276 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:03:01,277 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:03:01,279 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:03:03,082 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:03:03,628 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:03:03,679 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:03:04,529 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:04:58,695 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:04:58,696 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:04:58,699 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:05:01,091 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:05:02,004 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:05:02,036 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:05:02,878 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:10:23,252 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:10:23,253 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:10:23,256 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:10:25,561 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:10:26,658 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:10:26,695 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:10:27,543 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:13:21,241 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:13:21,242 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:13:21,245 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:13:23,469 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:13:24,127 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:13:44,237 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:13:45,100 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:14:25,969 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:14:25,970 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:14:25,974 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:14:28,261 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:14:29,584 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 16:15:19,274 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:15:19,275 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:15:19,278 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:15:21,221 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:15:21,879 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 16:16:25,155 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:16:25,156 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:16:25,160 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:16:26,942 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:16:27,666 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:16:27,705 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:16:28,632 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:16:35,677 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:16:35,678 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:16:35,679 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:16:37,380 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:16:37,953 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:16:37,984 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:16:38,837 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:16:51,832 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:16:51,834 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:16:51,836 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:16:59,286 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:17:31,798 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:17:40,188 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:17:56,215 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:17:56,216 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:17:56,220 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:18:12,300 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:18:14,483 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:18:14,485 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:18:14,487 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:18:20,764 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:19:05,669 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:20:14,345 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:20:23,236 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:20:23,237 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:20:23,241 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:20:25,154 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:20:27,417 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:20:27,453 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:20:28,461 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:21:28,655 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:21:28,656 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:21:28,658 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:21:30,705 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:21:31,413 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:21:31,444 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:21:32,825 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:22:34,656 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:22:34,657 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:22:34,659 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:22:36,783 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:22:37,366 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:22:37,399 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:22:38,294 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:26:49,009 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:26:49,011 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:26:49,014 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:26:51,408 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:26:51,931 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:26:51,965 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:26:52,828 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:32:15,390 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 16:32:15,391 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 16:32:15,393 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 16:32:17,592 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 16:32:18,260 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 16:32:18,295 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 16:32:19,338 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:17:01,814 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:17:01,815 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:17:01,817 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:17:03,568 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:17:04,176 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 17:17:04,208 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:17:05,125 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:17:36,686 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:17:36,687 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:17:36,689 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:17:38,296 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:17:39,140 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 17:17:39,143 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 17:17:39,143 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 17:17:39,143 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:29:20,339 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:29:20,340 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:29:20,342 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:29:22,299 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:29:23,415 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 17:29:23,502 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:29:24,310 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:31:41,955 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:31:41,956 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:31:41,959 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:31:44,023 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:31:44,528 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 17:32:45,019 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:32:45,877 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:32:52,853 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:32:52,854 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:32:52,856 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:32:54,500 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:32:55,424 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 17:33:55,615 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:33:56,462 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:34:17,977 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:34:17,978 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:34:17,981 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:34:19,815 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:34:20,392 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 17:34:20,405 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 17:34:20,405 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 17:34:20,405 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:35:11,641 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:35:11,641 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:35:11,643 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:35:13,108 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:35:13,863 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 17:35:13,880 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:35:14,792 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:35:48,609 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:35:48,610 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:35:48,612 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:35:50,307 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:35:50,842 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 17:36:50,861 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 17:36:50,861 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 17:36:50,861 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:38:10,976 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:38:10,977 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:38:10,979 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:38:12,737 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:38:13,439 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 17:39:13,456 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 17:39:13,456 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 17:39:13,456 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:45:38,121 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:45:38,122 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:45:38,125 [main] utils.Driver  - TRYING TO CREATE DRIVER
+ERROR   2020-07-21 17:45:40,697 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:45:40,697 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:45:45,104 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:53:15,458 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:53:15,460 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:53:15,463 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:53:18,890 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:53:19,714 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 17:54:19,566 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 17:54:19,567 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 17:54:19,570 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 17:54:22,907 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 17:54:23,753 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 17:55:23,900 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 17:55:24,196 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:06:48,402 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:06:48,403 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:06:48,406 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:06:52,238 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:06:52,930 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:07:53,435 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:07:53,944 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:10:01,050 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:10:01,051 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:10:01,055 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:10:04,882 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:10:05,539 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:11:05,666 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:11:06,192 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:11:49,399 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:11:49,400 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:11:49,402 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:11:52,601 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:11:53,222 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:11:53,282 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:11:53,703 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:12:21,569 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:12:21,570 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:12:21,571 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:12:23,409 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:12:24,108 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:12:24,141 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:12:24,920 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:14:35,001 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:14:35,002 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:14:35,004 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:14:36,542 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:14:37,152 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:19:39,875 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:19:39,876 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:19:39,879 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:19:41,834 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:19:43,551 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:20:43,782 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:20:44,552 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:22:57,574 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:22:57,574 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:22:57,576 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:22:59,223 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:23:00,859 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:23:00,890 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:23:01,725 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:39:01,412 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:39:01,413 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:39:01,416 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:39:03,578 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:39:04,487 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:39:04,496 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 18:39:04,496 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 18:39:04,496 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:48:21,659 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:48:21,659 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:48:21,662 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:48:23,567 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:48:28,361 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:48:44,323 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 18:48:44,323 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 18:48:44,323 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:49:19,428 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:49:19,429 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:49:19,431 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:49:21,015 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:49:21,759 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 18:49:21,815 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 18:49:22,624 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:55:29,239 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:55:29,240 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:55:29,242 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:55:31,036 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:55:35,450 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:55:36,142 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 18:55:36,142 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 18:55:36,142 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:57:51,672 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:57:51,673 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:57:51,676 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:57:53,293 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:57:53,856 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:57:54,834 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 18:57:54,834 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 18:57:54,834 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:58:45,266 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:58:45,267 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:58:45,268 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:58:46,718 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:58:47,416 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:59:42,266 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 18:59:42,267 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 18:59:42,269 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 18:59:44,124 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 18:59:44,881 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 18:59:48,024 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 18:59:48,024 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 18:59:48,024 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:00:09,219 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:00:09,220 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:00:09,222 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:00:10,752 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:00:11,444 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 19:00:39,580 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:00:39,581 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:00:39,582 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:00:41,178 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:00:41,984 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 19:00:43,860 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 19:00:43,860 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 19:00:43,860 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:07:15,914 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:07:15,915 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:07:15,917 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:07:18,028 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:07:18,668 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 19:08:35,009 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:08:35,010 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:08:35,011 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:08:36,892 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:08:37,593 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 19:09:07,796 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 19:09:08,623 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:09:46,463 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:09:46,464 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:09:46,466 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:09:48,193 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:09:49,784 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 19:09:49,987 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 19:09:50,688 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:10:16,064 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:10:16,065 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:10:16,067 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:10:17,695 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:10:18,452 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 19:10:18,497 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 19:10:19,308 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:16:39,338 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:16:39,339 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:16:39,341 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:16:41,287 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 19:16:41,970 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 19:16:42,870 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:21:03,659 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:21:03,660 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:21:03,662 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:21:05,631 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:21:06,286 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 19:21:06,297 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 19:21:06,297 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 19:21:06,297 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:24:25,925 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:24:25,926 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:24:25,929 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:24:28,161 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:24:29,189 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 19:24:29,213 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 19:24:29,214 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 19:24:29,214 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:26:39,634 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:26:39,635 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:26:39,637 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:26:41,513 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:27:18,082 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:27:18,082 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:27:18,084 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:27:19,582 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:27:56,973 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 19:27:57,037 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 19:27:57,579 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:28:06,315 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:28:06,316 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:28:06,319 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:28:08,110 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 19:29:30,801 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 19:29:30,801 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 19:29:30,804 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 19:29:32,482 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:01:37,972 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:01:37,974 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:01:37,981 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:01:40,156 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:01:40,722 [main] step_def.careerPageStepDef  - user clicks search bar
+INFO    2020-07-21 20:01:41,625 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:01:41,625 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:01:41,625 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:05:29,786 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:05:29,787 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:05:29,789 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:05:31,858 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:05:32,437 [main] step_def.careerPageStepDef  - user clicks search bar
+ERROR   2020-07-21 20:05:32,533 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:05:33,490 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:20:21,671 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:20:21,672 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:20:21,674 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:20:23,373 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:20:24,143 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:20:24,940 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:25:27,320 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:25:27,322 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:25:27,323 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:25:29,303 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:25:30,396 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:25:31,179 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:26:12,250 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:26:12,250 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:26:12,252 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:26:13,748 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:26:15,072 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:26:15,676 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:27:39,815 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:27:39,816 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:27:39,817 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:27:41,381 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:27:42,793 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:27:42,793 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:27:42,793 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:27:49,983 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:27:49,984 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:27:49,985 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:27:51,454 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:27:52,856 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:27:52,856 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:27:52,856 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:28:21,793 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:28:21,794 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:28:21,795 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:28:23,436 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:28:24,655 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:28:24,655 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:28:24,655 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:31:39,224 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:31:39,224 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:31:39,226 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:31:40,803 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:31:42,344 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:31:42,989 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:33:00,373 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:33:00,374 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:33:00,375 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:33:01,941 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:33:03,118 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:33:03,848 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:34:14,796 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:34:14,797 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:34:14,798 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:34:16,274 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:34:17,765 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:34:17,765 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:34:17,765 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:34:25,625 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:34:25,625 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:34:25,627 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:34:27,171 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:34:28,534 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:34:28,535 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:34:28,535 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:35:42,628 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:35:42,629 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:35:42,630 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:35:44,104 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:36:15,689 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:36:15,689 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:36:15,690 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:36:44,427 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:36:44,428 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:36:44,429 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:36:46,055 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:36:47,448 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:36:47,448 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:36:47,448 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:37:23,024 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:37:23,025 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:37:23,026 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:37:24,516 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:37:25,945 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:37:25,945 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:37:25,945 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:40:12,458 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:40:12,459 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:40:12,461 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:40:18,803 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:40:18,803 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:40:18,805 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:40:20,423 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:40:21,704 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:40:22,400 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:40:41,394 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:40:41,395 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:40:41,396 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:40:42,903 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:40:44,984 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:40:44,984 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:40:44,984 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:41:22,782 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:41:22,783 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:41:22,784 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:41:24,210 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:41:25,607 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:41:25,607 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:41:25,607 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:42:53,386 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:42:53,386 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:42:53,388 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:42:54,906 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:42:56,336 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:42:56,336 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:42:56,336 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:43:49,525 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:43:49,525 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:43:49,527 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:43:51,046 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:44:22,570 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:44:22,571 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:44:22,571 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:55:39,231 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:55:39,232 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:55:39,234 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:55:41,326 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 20:55:41,923 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 20:55:42,761 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:56:25,395 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 20:56:25,395 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 20:56:25,397 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 20:56:26,992 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 20:56:59,009 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 20:56:59,009 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 20:56:59,009 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:03:52,943 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:03:52,945 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 21:03:52,947 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 21:03:55,032 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 21:04:19,455 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:04:19,456 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 21:04:19,458 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 21:04:21,115 [main] step_def.careerPageStepDef  - user opening the home page
+ERROR   2020-07-21 21:04:21,966 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 21:04:22,814 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:05:10,596 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:05:10,597 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 21:05:10,599 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 21:05:12,105 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 21:05:14,323 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 21:05:14,323 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 21:05:14,323 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:07:21,963 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:07:21,964 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 21:07:21,966 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 21:07:23,716 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 21:07:29,413 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 21:07:29,413 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 21:07:29,413 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:08:41,332 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 21:08:41,333 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 21:08:41,334 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 21:08:42,804 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 21:08:44,836 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 21:08:44,836 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 21:08:44,837 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:15:41,811 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:15:41,812 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:15:41,814 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:15:43,911 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:15:44,546 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:15:46,058 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:15:46,058 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:15:46,058 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:26:06,801 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:26:06,802 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:26:06,805 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:26:08,809 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:26:13,891 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+ERROR   2020-07-21 22:26:19,485 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 22:26:20,311 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:27:00,708 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:27:00,709 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:27:00,712 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:27:02,449 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:27:03,064 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:27:04,436 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:27:04,436 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:27:04,436 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:27:11,835 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:27:11,836 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:27:11,838 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:27:13,361 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:27:13,949 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:27:15,439 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:27:15,439 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:27:15,439 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:45:55,788 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:45:55,789 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:45:55,791 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:45:57,799 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:45:58,562 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:45:59,347 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:45:59,790 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:45:59,791 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:45:59,791 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:47:22,599 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:47:22,601 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:47:22,602 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:47:24,407 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:47:24,980 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:47:25,779 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:47:26,047 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:47:26,047 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:47:26,047 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:47:35,820 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:47:35,821 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:47:35,822 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:47:37,293 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:47:37,910 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:47:38,486 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:47:38,814 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:47:38,814 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:47:38,814 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:48:48,410 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:48:48,411 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:48:48,412 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:48:50,102 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:48:50,659 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:48:51,282 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:48:51,742 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:48:51,742 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:48:51,742 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:51:32,679 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:51:32,679 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:51:32,681 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:51:34,135 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:51:34,750 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:51:35,371 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:51:35,649 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:51:35,649 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:51:35,649 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:51:50,172 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:51:50,173 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:51:50,175 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:51:51,784 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:51:52,393 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+ERROR   2020-07-21 22:51:52,433 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 22:51:53,439 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:51:53,620 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:51:53,620 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:51:53,620 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:51:54,727 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:51:55,323 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:51:56,133 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:51:56,417 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:51:56,418 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:51:56,418 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:56:57,244 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:56:57,246 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:56:57,248 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:56:59,134 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:56:59,742 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+ERROR   2020-07-21 22:56:59,788 [main] step_def.Hook  - Test failed!
+INFO    2020-07-21 22:57:00,606 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:58:19,573 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:58:19,574 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:58:19,576 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:58:21,089 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:58:21,534 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:58:22,462 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:58:22,759 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:58:22,759 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:58:22,759 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:58:50,363 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 22:58:50,364 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 22:58:50,365 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 22:58:51,929 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 22:58:52,500 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 22:58:53,096 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 22:58:53,453 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 22:58:53,453 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 22:58:53,453 [main] step_def.Hook  - ##############################
