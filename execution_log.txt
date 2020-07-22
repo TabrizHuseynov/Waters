@@ -806,3 +806,12 @@ INFO    2020-07-21 22:58:53,096 [main] step_def.careerPageStepDef  - user verifi
 INFO    2020-07-21 22:58:53,453 [main] step_def.Hook  - Cleanup!
 INFO    2020-07-21 22:58:53,453 [main] step_def.Hook  - Test completed!
 INFO    2020-07-21 22:58:53,453 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 23:04:14,540 [main] step_def.Hook  - ##############################
+INFO    2020-07-21 23:04:14,542 [main] step_def.Hook  - Test setup!
+INFO    2020-07-21 23:04:14,545 [main] utils.Driver  - TRYING TO CREATE DRIVER
+INFO    2020-07-21 23:04:16,829 [main] step_def.careerPageStepDef  - user opening the home page
+INFO    2020-07-21 23:04:17,536 [main] step_def.careerPageStepDef  - user passing the 11688 job id to search box
+INFO    2020-07-21 23:04:18,305 [main] step_def.careerPageStepDef  - user verifies that req.# 11688
+INFO    2020-07-21 23:04:18,759 [main] step_def.Hook  - Cleanup!
+INFO    2020-07-21 23:04:18,759 [main] step_def.Hook  - Test completed!
+INFO    2020-07-21 23:04:18,760 [main] step_def.Hook  - ##############################
